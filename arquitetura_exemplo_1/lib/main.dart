@@ -6,7 +6,7 @@ void main() {
   /*-------------------------------
   ------Arquitetura exemplo 1------
   Referencias:
-  Playlist Semana do Flutter - Sacob Moura da Flutterando
+  Playlist Semana do Flutter - Sacob Moura da Flutte
   Link Playlist: https://youtube.com/playlist?list=PLlBnICoI-g-c_ZIHqzQjg5E4Re92-qYXn&feature=shared
   -------------------------------*/
 }
